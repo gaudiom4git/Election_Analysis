@@ -35,4 +35,7 @@ Raymon Anthony Doane | 11,606 | 3.1%
 
 
 ## Election-Audit Summary
+This script provides summaries at the county level.  It can be modified to provide summaries at state and national levels as well.
+You would assume that the data file (election_results.csv) would include a column for the state.
+Similarly, you can also modify the script to have more than one position in an election, say a County Secretary and a County Sheriff.
 
