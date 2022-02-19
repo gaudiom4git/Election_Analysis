@@ -29,10 +29,13 @@ F strings were used to format results both on the terminal and in the output fil
 	* Raymon Anthony Doane		11,606		3.1%
 * Diana DeGette was the winner with Vote Count=272,292  Percentage of Votes: 73.8%
 
+This output can be found here: [election_analysis.txt](https://github.com/gaudiom4git/Election_Analysis/tree/main/analysis/election_analysis.txt).
+
 
 ## Election-Audit Summary
 This script provides summaries at the county level.  It can be modified to provide summaries at state and national levels as well.
 Similarly, you can have more than one position in an election, say a County Secretary and a County Sheriff.   
+
 You assume that the state and position would be added as columns to the data file (election_results.csv).  
 The script has to be modified so that it brings in the headers (added columns) and using DictReader.   You can reference the "keys"
 in the csvreader object so that you can reference them in your loop.   This method is useful when you don't know how many columns are
