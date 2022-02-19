@@ -19,18 +19,14 @@ F strings were used to format results both on the terminal and in the output fil
 ## Results
 * Total Votes cast = 369,711
 * Vote Summary By County
-County| Total Votes Cast |  Pct of Total Votes Cast
-------|------------------|--------------------------
-Jefferson | 38,855  |  10.5%	
-Denver | 306,055 | 82.8%
-Arapahoe | 24,801 | 6.7%
+**Jefferson | 38,855  |  10.5%	
+**Denver | 306,055 | 82.8%
+**Arapahoe | 24,801 | 6.7%
 * Denver had the largest number of votes
 * Vote Summary by Candidate
-Candidate| Total Votes Cast | Pct Votes Received
-------|------------------|----------------------------
-Charles Casper Stockham | 85,213  |  23.0%	
-Diana DeGette | 272,892 | 73.8%
-Raymon Anthony Doane | 11,606 | 3.1%
+**Charles Casper Stockham | 85,213  |  23.0%	
+**Diana DeGette | 272,892 | 73.8%
+**Raymon Anthony Doane | 11,606 | 3.1%
 * Diana DeGette was the winner with Vote Count=272,292  Percentage of Votes: 73.8%
 
 
