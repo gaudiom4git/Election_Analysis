@@ -32,6 +32,9 @@ F strings were used to format results both on the terminal and in the output fil
 
 ## Election-Audit Summary
 This script provides summaries at the county level.  It can be modified to provide summaries at state and national levels as well.
-You would assume that the data file (election_results.csv) would include a column for the state.
-Similarly, you can also modify the script to have more than one position in an election, say a County Secretary and a County Sheriff.
+Similarly, you can have more than one position in an election, say a County Secretary and a County Sheriff.   
+You assume that the state and position would be added as columns to the data file (election_results.csv).  
+The script has to be modified so that it brings in the headers (added columns) and using DictReader.   You can reference the "keys"
+in the csvreader object so that you can reference them in your loop.   This method is useful when you don't know how many columns are
+in your file.
 
